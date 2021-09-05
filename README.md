@@ -3,7 +3,8 @@
 ### Thành viên tham gia:
 - [Đinh Tùng Duy] - 19020269
 - [Phạm Mạnh Minh Quang] - 19020404
-- Nguyễn Xuân Bách - 1902
+- [Nguyễn Xuân Bách] - 19020218
 
   [Đinh Tùng Duy]: <https://github.com/dtduy2k1>
   [Phạm Mạnh Minh Quang]: <https://github.com/pmm-quang>
+  [Nguyễn Xuân Bách]: <>
