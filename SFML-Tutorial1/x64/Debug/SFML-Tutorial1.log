@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML-Tutorial1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+D:\ZuE\we have shit to do\Nhóm_12_Phi cơ mật thám\SFML-Tutorial1\Main.cpp(305,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML-Tutorial1.vcxproj -> D:\ZuE\we have shit to do\Nhóm_12_Phi cơ mật thám\x64\Debug\Phi co mat tham.exe
